@@ -10,7 +10,7 @@ This is the place where i do stuff related to Azure and tend to focus on automat
 - 💬 Ask me about Terraform, Bicep, Azure Infrastructure and Azure Governance 
 
 ### 📫 How to reach me:
-You can wither use the email in my Github Profile or ping me on Twitter or LinkedIn
+You can either use the email in my Github Profile or ping me on Twitter or LinkedIn
 [![Twitter: t_vuorenmaa](https://img.shields.io/twitter/follow/t_vuorenmaa?style=social)](https://twitter.com/t_vuorenmaa)
 [![Linkedin: tobiasvuorenmaa](https://img.shields.io/badge/-tobiasvuorenmaa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tobiasvuorenmaa/)](https://www.linkedin.com/in/tobiasvuorenmaa/)
 
