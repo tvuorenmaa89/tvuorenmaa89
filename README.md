@@ -7,7 +7,7 @@ This is the place where i do stuff related to Azure and tend to focus on automat
 
 - 🖥 Expert Engineer at <a href="https://www.xenit.se">Xenit</a>
 - 💼 Founder and maintainer of <a href="https://www.meetup.com/Goteborg-CloudOps/">Gothenburg CloudOps Meetup</a>
-- 💬 Ask me about Terraform, Bicep, Azure Infrastructure and Azure Governance 
+- 💬 Ask me about Terraform, Bicep, Azure Infrastructure, Azure Governance and Azure Security 
 
 ### 📫 How to reach me:
 You can either use the email in my Github Profile or ping me on Twitter or LinkedIn
