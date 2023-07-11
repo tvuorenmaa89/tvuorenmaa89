@@ -3,7 +3,7 @@
 ### :book: About me
 Hi, iam Tobias, a guy from Sweden that have a background in traditional datacenter and operations but have over the year moved away from the physical datacenter and have now forgotten the feel of fresh servers and Cat6 cables. Spend most of my days bulding solutions in Azure ⚡
 
-This is the place where i do stuff related to Azure and tend to focus on automation and Infrastructure as code and security. 
+This is the place where i do stuff related to Azure and tend to focus on automation, infrastructure as code and security. 
 
 - 🖥 Expert Engineer at <a href="https://www.xenit.se">Xenit</a>
 - 💼 Founder and maintainer of <a href="https://www.meetup.com/Goteborg-CloudOps/">Gothenburg CloudOps Meetup</a>
